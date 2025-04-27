@@ -4,4 +4,4 @@
 # Custom Trims
 This packs demonstrates custom armor trim designs for Minecraft zh-wiki. We welcome community contributions to expand this content.
 
-![](./Custom Trim Icon.gif)
+![](https://github.com/TurnipRadish/CustomTrim/edit/main/Custom_Trim_Icon.gif)
