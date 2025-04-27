@@ -1,0 +1,7 @@
+{
+  "asset_name": "blaze",
+  "description": {
+    "translate": "trim_material.example.blaze",
+    "fallback": "Blaze Trim Material"
+  }
+}

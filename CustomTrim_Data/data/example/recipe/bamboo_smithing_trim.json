@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smithing_trim",
+  "template": "minecraft:bamboo",
+  "base": "#minecraft:trimmable_armor",
+  "addition": "minecraft:blaze_powder",
+  "pattern": "example:bamboo"
+}

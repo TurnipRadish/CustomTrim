@@ -1,0 +1,8 @@
+{
+  "asset_id": "example:bamboo",
+  "description": {
+    "translate": "trim_pattern.example.bamboo",
+    "fallback": "Bamboo Trim Pattern"
+  },
+  "decal": true
+}
